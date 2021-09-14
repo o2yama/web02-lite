@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #202629;
+}
+
+#counter {
+  color: #2799ff;
+  font-size: 100px;
+  font-weight: bold;
+}
