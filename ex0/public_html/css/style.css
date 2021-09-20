@@ -14,5 +14,6 @@ body {
 #counter {
   color: #2799ff;
   font-size: 100px;
-  font-weight: bold;
+  font-family: "Source Sans Pro", sans-serif;
 }
+
